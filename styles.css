@@ -1,1 +1,22 @@
 /* your code */
+table{
+	width:100%;
+}
+table{
+	border: 2px solid gray;
+	border-radius:10px;
+}
+
+th,td{
+	padding:2px;
+	text-align:center;
+}
+
+#blue{
+	background-color:skyblue;
+}
+
+.gray{
+	background-color:lightgray;
+}
+
